@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Javad Ali,Welcome to my GitHub Profile</h1>
 <h3 align="left">👨‍💻 MERN Stack Developer. <br>
-  🧑🏻‍💻 self taught dev. <br>
+  🧑🏻‍💻 Self taught dev. <br>
   ⚒️ Learning and exploring web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javadalip&label=Profile%20views&color=0e75b6&style=flat" alt="javadalip" /> </p>
