@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Javad Ali,Welcome to my GitHub Profile</h1>
+<h1 align="left">Hi 👋, I'm Javad Ali, Welcome to my GitHub Profile</h1>
 <h3 align="left">👨‍💻 MERN Stack Developer. <br>
   🧑🏻‍💻 Self taught dev. <br>
   ⚒️ Learning and exploring web.</h3>
