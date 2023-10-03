@@ -30,7 +30,7 @@
 
  
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667"alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667"  style="margin-right= 10" alt="Tailwind CSS" width="40" height="40" />
 </a>
 </p>
 
